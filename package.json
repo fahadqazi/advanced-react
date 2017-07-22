@@ -1,0 +1,11 @@
+{
+  "name": "advanced-react",
+  "version": "1.0.0",
+  "main": "lib/server.js",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.3.0",
+    "eslint-plugin-react": "^7.1.0"
+  }
+}
